@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarghubAlam-dev
-- 👀 I’m an Alteryx deveopler, and interested in to developp Analytics applications for complex business processes for an organization, and the developed product/Analytical insights/Solutions can be used by business executative for better operational decisions.    
+- 👀 I’m an Alteryx deveopler, and interested in to developp Analytics applications for complex business processes for an organization, and the developed product/Analytical insights/Solutions can be used by business executives (Director, Partner) for better operational decisions.    
 - 🌱 I’m currently learning ... Python integration within Alteryx.
 - 💞️ I’m looking to collaborate on ... Financial data modelling across business processes (Data Integration/Cleansing/enrichment/Categorization/Governance/Reporting)
 - 📫 How to reach me ...
